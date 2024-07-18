@@ -4,7 +4,8 @@
  I love using code (think Python and R) to bring ideas to life, and data analysis (think spreadsheets!) helps me uncover hidden stories within information.  I want to use data science to make a real difference in the world.**Aspiring entrepreneur** 
  
 ## My stack📚
-![image](https://github.com/user-attachments/assets/5a92585f-ba1f-4601-b1a0-3e293188f710)
+<img src="https://github.com/user-attachments/assets/5a92585f-ba1f-4601-b1a0-3e293188f710" width="200" height="150">
+
 ![image](https://github.com/user-attachments/assets/fa9519ce-c942-4ce5-b56a-8de017441286)
 ![image](https://github.com/user-attachments/assets/5a2f5ce3-49bb-4e1c-91e6-143b742b105c)
 ![image](https://github.com/user-attachments/assets/69e7301d-6c86-423d-b5c7-682e94db24ca)
