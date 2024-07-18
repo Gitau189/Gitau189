@@ -6,7 +6,6 @@
 ## My stack📚
 <img src="https://github.com/user-attachments/assets/5a92585f-ba1f-4601-b1a0-3e293188f710" width="200" height="150">
 
-<img src="https://github.com/user-attachments/assets/5a2f5ce3-49bb-4e1c-91e6-143b742b105c" width="200" height="150">
 
 <img src="https://github.com/user-attachments/assets/5a2f5ce3-49bb-4e1c-91e6-143b742b105c" width="200" height="150">
 
