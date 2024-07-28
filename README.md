@@ -1,6 +1,6 @@
-# Hi there 👋
-
- I'm in my sophomore year studying Data Science and Analytics at the United States International University .I am kenyan 
+### Hi, I'm Gitau Waiya
+###  🧑‍🎓Sophomore 
+### 🎓Data Science and analytics major
  I love using code (think Python and R) to bring ideas to life, and data analysis (think spreadsheets!) helps me uncover hidden stories within data.  I want to use data science to make a real difference in the world.**Aspiring entrepreneur** 
  
 # My stack📚
