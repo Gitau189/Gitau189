@@ -1,9 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on building  my own LLM<br>🌱 I’m currently learning python, power BI, microsoft fabric, R, sql<br>📫 How to reach me gitauwaiya@gmail.com<br>💼 I'm open to collaborations on projects related to my areas of interest.<br>⚡ *Fun fact* I think i am a little bit funny.
+🔭 I’m currently working on building  my own LLM<br>🌱 I’m currently working with python, power BI, microsoft fabric, R, sql<br>📫 How to reach me gitauwaiya@gmail.com<br>💼 I'm open to collaborations on projects related to my areas of interest.<br>⚡ *Fun fact* I think i am a little bit funny.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gitau waiya) 
+ 
 
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
