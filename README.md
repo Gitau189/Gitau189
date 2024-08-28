@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building  my own LLM<br>🌱 I’m currently working with python, power BI, microsoft fabric, R, sql<br>📫 How to reach me gitauwaiya@gmail.com<br>💼 I'm open to collaborations on projects related to my areas of interest.<br>⚡ *Fun fact* I think i am a little bit funny.
+🔭 LLM enthusiast<br>🌱 I’m currently working with python, power BI, microsoft fabric, R, sql<br>📫 How to reach me gitauwaiya@gmail.com<br>💼 I'm open to collaborations on projects related to my areas of interest.<br>⚡ I think i am a little bit funny,idk i might be biased.
 
  
 
