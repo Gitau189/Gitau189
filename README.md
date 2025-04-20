@@ -20,72 +20,51 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-    <br>
-    C++
+    <span>C++</span>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-    <br>
-    CSS3
+    <span>CSS3</span>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
-    <br>
-    Django
+    <span>Django</span>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-    <br>
-    Git
+    <span>Git</span>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-    <br>
-    HTML5
+    <span>HTML5</span>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
-    <br>
-    MATLAB
+    <span>MATLAB</span>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-    <br>
-    MySQL
+    <span>MySQL</span>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
-    <br>
-    Pandas
+    <span>Pandas</span>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-    <br>
-    Python
+    <span>Python</span>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
-    <br>
-    PyTorch
+    <span>PyTorch</span>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
-    <br>
-    Scikit-learn
+    <span>Scikit-learn</span>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
-    <br>
-    Seaborn
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px; margin-bottom: 20px; text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-    <br>
-    TensorFlow
-  </a>
-</p>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px; margin-bottom: 20px; text-decoration: none
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitau189&show_icons=true&locale=en&layout=compact" alt="gitau189" /></p>
 
