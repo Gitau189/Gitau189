@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 💫 About Me:
+🔭 I’m currently **sharpening my data science skills**, with a strong focus on **machine learning and data infrastructure engineering**. I'm actively involved in **developing robust data pipelines and building scalable data solutions.**<br>
+👯 I've had the opportunity to **collaborate with talented individuals on impactful projects** and am always eager to connect with others in the data science and engineering space for future ventures.<br>
+🤝 I'm particularly interested in **leveraging my data science skillset to contribute to building innovative SaaS products.**<br>
+🌱 I’m currently deepening my understanding of **advanced machine learning techniques and exploring cutting-edge data infrastructure technologies.**<br>
+💬 Ask me about **data science methodologies, machine learning workflows, building data pipelines, and the exciting projects happening at Synthahub!**<br>
 
 
 ## 🌐 Socials:
