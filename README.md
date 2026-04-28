@@ -67,8 +67,34 @@ Open source               ████░░░░░░  40%   Give back to the
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gitau189&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitau189&layout=compact&hide_border=true&title_color=1D9E75&langs_count=6" width="44%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gitau189&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=555&bg_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitau189&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=1D9E75&dates=888" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitau189&layout=compact&hide_border=true&title_color=1D9E75&text_color=555&bg_color=ffffff&langs_count=8" width="42%" />
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gitau189&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=8&title_color=1D9E75" />
+
+</div>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gitau189&bg_color=ffffff&color=1D9E75&line=1D9E75&point=0F6E56&area=true&area_color=E1F5EE&hide_border=true" width="100%" />
+
 </div>
 
 ---
